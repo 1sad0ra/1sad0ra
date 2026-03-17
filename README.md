@@ -1,4 +1,6 @@
-# Olá. Eu sou a Isadora 👋🙂
+# Hi. I'm Isadora.
+I am finishing my ADS (Systems Analysis and Development) course.
+
 
 
 
