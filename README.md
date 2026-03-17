@@ -1,13 +1,10 @@
 # Hi. I'm Isadora.
 I am finishing my ADS (Systems Analysis and Development) course.
 
-
-
-
 ![Isadora GitHub stats](https://github-readme-stats.vercel.app/api?username=1sad0ra&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sad0ra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### contacts
+### My contacts
 [![Gmail](ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://isadora.cd13@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Whatsapp](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1sad0ra/)
